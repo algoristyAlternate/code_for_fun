@@ -1,13 +1,6 @@
 Hacktoberfest-2022
 
-**Checkout this Project as well [Annoying Button😡](https://annoyingsubmitbutton.netlify.app/) , It's hacktoberfest github : [https://github.com/fineanmol/Annoying-submit-button](https://github.com/fineanmol/Annoying-submit-button)**
-
-
-# Submit your PR on this new repo [Hacktoberfest](https://github.com/fineanmol/hacktoberfest) , There we are merging all PR. 
-
-In this current repo, there are alot of conflicts, we are not merging until all conflicts get resolved.
-Hacktoberfest { [Live Website](https://fineanmol.github.io/Hacktoberfest2022/)}
-
+# Submit your PR on this new repo [Hacktoberfest](https://github.com/algoristyAlternate/code_for_fun) , There we are merging all PR. 
 
 **This is a beginner-friendly project to help you get started with your
 [hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't know where to start, feel free to watch the videos linked below, and read the contribution rules. Happy hacking <3 💙 !!**
@@ -40,7 +33,7 @@ Hacktoberfest 2022
 - Clone on your local machine
 
 ```terminal
-git clone https://github.com/fineanmol/Hacktoberfest2022.git
+git clone https://github.com/algoristyAlternate/code_for_fun.git
 ```
 - Navigate to project directory.
 ```terminal
@@ -52,7 +45,7 @@ cd Hacktoberfest2022
 ```markdown
 git checkout -b my-new-branch
 ```
-- Add your Name to `contributors/contributorsList.js`
+- Add your code
 ```markdown
 git add .
 ```
@@ -76,7 +69,7 @@ git push origin my-new-branch
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.   
 
 ```terminal
-git remote add upstream https://github.com/fineanmol/Hacktoberfest2022
+git remote add upstream https://github.com/algoristyAlternate/code_for_fun
 ```
 
 You can verify that the new remote has been added by typing
@@ -106,9 +99,6 @@ For more information on syncing forks [read this article from Github](https://he
 [hacktoberfest](https://hacktoberfest.digitalocean.com/) :)
 - Are you getting paid for this?
   - Sadly no. But we think we should. This is 100% unofficial and we do it for fun, fame and glory.
-- Why are you not using digitalocean?
-  - Because we only know JavaScript and suck at servers. We use [now](https://zeit.co/now) instead.
-
 - Should I come closer to the text saying 'Don't come closer' on the left side of the home tab ?
   - Nope.
 - How many pull request (PR) must be made, if I want to get an awesome tshirt from Hacktoberfest 2022?
